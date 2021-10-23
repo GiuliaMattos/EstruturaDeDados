@@ -17,7 +17,7 @@ public class Main {
         c.setValor(5);
         //metodo que informa valor
         System.out.println(c.getValor());
-        System.out.println("Reais: ");
+        System.out.println("reais: ");
 
 
 
